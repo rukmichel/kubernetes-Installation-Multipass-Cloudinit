@@ -1,0 +1,179 @@
+# Copyright (c) 2024. All rights reserved.
+
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+
+#     http://www.apache.org/licenses/LICENSE-2.0
+
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDcDEwrVfvn7vslYJ7tqGPa9nP3N+Ernhbb4PYqeXRfZmiKRs7as24rozuuPBdMSBYD7Eg3QXY+jDTsMvq1dGJPbdVa2z3sdBe14Gl+fwH+QSp8DmSHr08Lx3HqzheJrElA562P0RxygdZD2eqqeO0Ku4+9O8eoKQot+YP1xOpDYySIngPaowX18RWDOLw91IZGZZn3mi2ZmPM6+Ip5r48W4B+pSu4gOnZQaaeIuScEMYTsbka+/yaK3m3eQP6W5as/JaFu/faImdpFIRnQqcXICt+C0jchOSsCbrEx4mrmGux9WGwQ6zCOV01S3nWNroj9HJOKC+UQp3lHHNITlbU9
+ssh_keys:
+  rsa_private: |
+    -----BEGIN RSA PRIVATE KEY-----
+    MIIEpAIBAAKCAQEA3AxMK1X75+77JWCe7ahj2vZz9zfhK54W2+D2Knl0X2ZoikbO
+    2rNuK6M7rjwXTEgWA+xIN0F2Pow07DL6tXRiT23VWts97HQXteBpfn8B/kEqfA5k
+    h69PC8dx6s4XiaxJQOetj9EccoHWQ9nqqnjtCruPvTvHqCkKLfmD9cTqQ2MkiJ4D
+    2qMF9fEVgzi8PdSGRmWZ95otmZjzOviKea+PFuAfqUruIDp2UGmniLknBDGE7G5G
+    vv8mit5t3kD+luWrPyWhbv32iJnaRSEZ0KnFyArfgtI3ITkrAm6xMeJq5hrsfVhs
+    EOswjldNUt51ja6I/RyTigvlEKd5RxzSE5W1PQIDAQABAoIBAQDBnsh+8T+gizXN
+    Y8E0GREUH/tWMoMc4BP5EW9JXGk7cF7YHQnygiOUniLrYtCVPHCyrvu0MxOaYcBH
+    fWwAshG3Fku/kF5iapxaWsY4mgTk9e4uDnQCuAzzrmDcXM91QnWKeNDNVRCU6Q3h
+    0iOcMJ9S7ErEFY/OtZ3RalXksYn4E+i4tNVRFGgqzvmKwan6izN0lAYcos6VjGYS
+    Y4JR3bf2h83pdYDv+FkHy0XFGm7dvS/FaQgZxazAc9QXwULqN4xWwO0Zsa2NMLNd
+    0I3l2uWf6p577MynghByZ9tonbMCFhsap5u7iJBepdK2/tZiQVBMfD1xsTOJvWw8
+    snbS7yd5AoGBAPSH9jAc67nfUcJOTY0JIbDGEI2LGDMrq95Vu0zh1kqx8B8sxBEq
+    it4wxhhbwv0q0WEX3yjg/yHp3/VfJdNytu4a1AU+CpwFqiKGrL40mr2/DmOpmfKR
+    ldJ0P8GkSEhxFfyWEw2xM8CvRq7AReCXDga87/taHKeSbbtFXAjmggWzAoGBAOZe
+    X1URnv/ggGPYvAj/9CngcBA62pdeNNdRbaBfI+J4RsD9N65Uvp8Xvo+3Lzxp67lz
+    pzc2XK7TDLWwwj7GRTVZdg7SUVsaPMqZnflCHSISoKG2vPCciSCU9x/+SSvXxbTd
+    jfNPLJeSU0idOdAwPghR9vnqYnsAKUpBJyIHLsFPAoGBAMWvnRGsb82mgrxo/T0F
+    otz8YqlrR7cmmR13haJT+SAN1if90sxl7jpOh/dtR6fQE9FAsUKlEt1h65K8xyG4
+    XbcErV9HluAnnDGpWsGyWV8ItCNSG4kEtXCcVma/30fhVHsNAH5TQZmGmcfw3Q0C
+    UW6VFBXJ9dxq/pclLZBsebUNAoGATDM/OXZgr6blESHp4Ng5PXjd2KB/Gb6xn99x
+    cbDGv+ylCsU3m9SwUROblxIy77rhnDBjSWIT+kgZVignuHgBAIqdAH4VJxtgrGtv
+    07lIxbJ/q740dSpyOXLM46pLLdNrtE3s3GR+DYz7O3O2YeTzP/FMzpH3DVSaU9OF
+    TD4v+wUCgYB4n6ZBK+C8LywXdoCd2qHj8QjHSFmgp8+lxY46Xng8QCw7Fifv8pVn
+    WfxALAs3OPEzSXbEIsP2vTkl9N0hC6BYcxYBRuNJL8Te77pnOE3d+Hkttx+LUQBM
+    V9FuBDOUXxHDv1qyGcfKPleZF8b9MxHGn/YrVNoJdPxwk7m8SFBtwA==
+    -----END RSA PRIVATE KEY-----
+  rsa_public: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDcDEwrVfvn7vslYJ7tqGPa9nP3N+Ernhbb4PYqeXRfZmiKRs7as24rozuuPBdMSBYD7Eg3QXY+jDTsMvq1dGJPbdVa2z3sdBe14Gl+fwH+QSp8DmSHr08Lx3HqzheJrElA562P0RxygdZD2eqqeO0Ku4+9O8eoKQot+YP1xOpDYySIngPaowX18RWDOLw91IZGZZn3mi2ZmPM6+Ip5r48W4B+pSu4gOnZQaaeIuScEMYTsbka+/yaK3m3eQP6W5as/JaFu/faImdpFIRnQqcXICt+C0jchOSsCbrEx4mrmGux9WGwQ6zCOV01S3nWNroj9HJOKC+UQp3lHHNITlbU9
+    
+packages:
+  - apt-transport-https
+  - ca-certificates
+  - curl
+  - gnupg-agent
+  - software-properties-common
+  - coreutils  # Provides sha256sum
+  - net-tools # netstat -atlp to see a list of listening sockets 
+  - highlight
+
+write_files: # https://netplan.readthedocs.io/en/stable/examples/#how-to-configure-a-static-ip-address-on-an-interface
+  - content: |
+      network:
+        version: 2
+        renderer: networkd
+        ethernets:
+          interface:
+            dhcp4: false
+            dhcp6: false
+            accept-ra: false
+            match:
+                macaddress: macAdPlaceHolder
+            addresses: 
+              - IP
+            routes:
+              - to: default
+                via: gateway
+                on-link: true
+            nameservers:
+              search:
+                - "k8t.local"
+              addresses:
+                - gateway
+    owner: root:root
+    path: /usr/local/10-custom.yaml
+    permissions: '0600'
+  - content: |
+      network: {config: disabled}
+    owner: root:root
+    path: /usr/local/99-disable-network-config.cfg
+    permissions: '0600'
+
+runcmd:
+  - INTERFACE=$(ls /sys/class/net | grep -E '^(en|eth)[0-9]+')
+  - IP_INFO=$(ip addr show dev $INTERFACE | grep -oP 'inet \K[\d.]+\/\d+')
+  - MACADDRESS=$(ip addr show dev $INTERFACE | awk '/ether/ {print $2}')
+  - GATEWAY=$(ip route | grep default | awk '{print $3}')
+  - |
+    sed -i \
+    -e "s/interface/$INTERFACE/g" \
+    -e "s/IP/$(echo "$IP_INFO" | sed 's/\//\\\//g')/g" \
+    -e "s/macAdPlaceHolder/$MACADDRESS/g" \
+    -e "s/gateway/$GATEWAY/g" \
+    /usr/local/10-custom.yaml
+      
+  #- [ /usr/bin/systemctl, enable, NetworkManager-wait-online.service ]
+  - INTERFACE=$(ls /sys/class/net | grep -E '^(en|eth)[0-9]+')
+  - sed -i "s/interface/$INTERFACE/g" /usr/local/10-custom.yaml
+  # Get the IP address and subnet mask using ip command
+  - IP_INFO=$(ip addr show dev $INTERFACE | grep -oP 'inet \K[\d.]+\/\d+')
+  - sed -i "s/IP/$(echo "$IP_INFO" | sed 's/\//\\\//g')/g" /usr/local/10-custom.yaml
+  - MACADDRESS=$(ip addr show dev $INTERFACE | awk '/ether/ {print $2}')
+  - sed -i "s/macAdPlaceHolder/$MACADDRESS/g" /usr/local/10-custom.yaml
+  # Get the default gateway
+  - GATEWAY=$(ip route | grep default | awk '{print $3}')
+  - sed -i "s/gateway/$GATEWAY/g" /usr/local/10-custom.yaml
+
+  # Replace cloud-int network configuration with custom one.
+  - mv /usr/local/10-custom.yaml /etc/netplan/
+
+  # Disable cloud-init's network configuration capabilities
+  - mv /usr/local/99-disable-network-config.cfg /etc/cloud/cloud.cfg.d/
+  - mv /etc/netplan/50-cloud-init.yaml /usr/local/
+
+  # Apply network changes
+  - netplan apply
+  - [ /usr/bin/systemctl, enable, NetworkManager-wait-online.service ]
+  
+  # Download the Containerd runtime
+  - wget https://github.com/containerd/containerd/releases/download/v1.6.8/containerd-1.6.8-linux-amd64.tar.gz
+  # Unpack that file into /usr/local/ 
+  - sudo tar Cxzvf /usr/local containerd-1.6.8-linux-amd64.tar.gz
+  
+  # Containerd configurations
+  - mkdir /etc/containerd
+  - containerd config default | tee /etc/containerd/config.toml
+  - sed -i 's/SystemdCgroup \= false/SystemdCgroup \= true/g' /etc/containerd/config.toml
+
+  # Download the required systemd file
+  - curl -L https://raw.githubusercontent.com/containerd/containerd/main/containerd.service -o /etc/systemd/system/containerd.service
+  - systemctl daemon-reload
+  - systemctl enable --now containerd
+
+  # Download runc package
+  - wget https://github.com/opencontainers/runc/releases/download/v1.1.13/runc.amd64
+  # Install runc:
+  - install -m 755 runc.amd64 /usr/local/sbin/runc
+
+  # Download CNI:
+  - wget https://github.com/containernetworking/plugins/releases/download/v1.5.1/cni-plugins-linux-amd64-v1.5.1.tgz{,.sha256}
+  - sha256sum --check cni-plugins-linux-amd64-v1.5.1.tgz.sha256
+  # Install CNI plugins:
+  - mkdir -p /opt/cni/bin
+  - tar Cxzvf /opt/cni/bin cni-plugins-linux-amd64-v1.1.1.tgz
+
+
+  # Allow  arriving at the node's network interface to be forwaded to pods and allow Node’s iptables to correctly see bridged traffic
+  - |
+    cat <<EOF | tee -a /etc/sysctl.d/k8s.conf
+    net.ipv4.ip_forward = 1
+    net.bridge.bridge-nf-call-iptables = 1
+    EOF
+
+  # Apply sysctl params without reboot
+  - sysctl --system
+
+  # Disable swap
+  - swapoff -a
+
+  # Load overlay and netfilter modules 
+  - |
+    tee -a /etc/modules-load.d/kubernetes.conf <<EOF
+    overlay
+    br_netfilter
+    EOF
+
+  # Add Kubernetes repository
+  - curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.30/deb/Release.key | gpg --dearmor -o /etc/apt/keyrings/kubernetes-apt-keyring.gpg
+  # This overwrites any existing configuration in /etc/apt/sources.list.d/kubernetes.list
+  - echo 'deb [signed-by=/etc/apt/keyrings/kubernetes-apt-keyring.gpg] https://pkgs.k8s.io/core:/stable:/v1.30/deb/ /' | tee /etc/apt/sources.list.d/kubernetes.list
+  - apt-get update -y ; apt-get upgrade -y
+  - apt-get install -y kubelet kubeadm
+  - apt-mark hold kubelet kubeadm
